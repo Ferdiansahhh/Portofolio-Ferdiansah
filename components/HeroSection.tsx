@@ -40,6 +40,13 @@ const HeroSection = () => {
           >
             Projects
           </Link>
+          &nbsp;
+          <a
+            href="/CV_Ferdiansah.pdf"
+            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+          >
+            Download CV
+          </a>
         </div>
       </div>
       <div className="flex flex-row items-center text-center justify-center ">
